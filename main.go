@@ -23,11 +23,11 @@ const (
 type Mode int
 
 const (
-	ModeNormal  Mode = iota
-	ModeInsert       // editing a cell
-	ModeCommand      // typing a ':' command
-	ModeVisual       // visual line selection (Shift+V)
-	ModeVisualCol    // visual column selection (v)
+	ModeNormal    Mode = iota
+	ModeInsert         // editing a cell
+	ModeCommand        // typing a ':' command
+	ModeVisual         // visual line selection (Shift+V)
+	ModeVisualCol      // visual column selection (v)
 )
 
 // snapshot captures the full grid state for undo/redo.
@@ -407,18 +407,18 @@ func (ed *Editor) draw(sw, sh int) {
 
 	// ── Colour palette ──
 	styleDefault := tcell.StyleDefault
-	styleHeader   := tcell.StyleDefault.Bold(true).Foreground(tcell.ColorAqua)
-	styleCurHdr   := tcell.StyleDefault.Bold(true).Background(tcell.ColorTeal).Foreground(tcell.ColorWhite)
-	styleCurCell  := tcell.StyleDefault.Background(tcell.ColorYellow).Foreground(tcell.ColorBlack).Bold(true)
-	styleInsert   := tcell.StyleDefault.Background(tcell.ColorGreen).Foreground(tcell.ColorBlack)
-	styleRowNum   := tcell.StyleDefault.Foreground(tcell.ColorGray)
-	styleSep      := tcell.StyleDefault.Foreground(tcell.ColorGray)
-	styleStatus   := tcell.StyleDefault.Dim(true)
-	styleCmd      := tcell.StyleDefault.Background(tcell.ColorBlack).Foreground(tcell.ColorWhite)
+	styleHeader := tcell.StyleDefault.Bold(true).Foreground(tcell.ColorAqua)
+	styleCurHdr := tcell.StyleDefault.Bold(true).Background(tcell.ColorTeal).Foreground(tcell.ColorWhite)
+	styleCurCell := tcell.StyleDefault.Background(tcell.ColorYellow).Foreground(tcell.ColorBlack).Bold(true)
+	styleInsert := tcell.StyleDefault.Background(tcell.ColorGreen).Foreground(tcell.ColorBlack)
+	styleRowNum := tcell.StyleDefault.Foreground(tcell.ColorGray)
+	styleSep := tcell.StyleDefault.Foreground(tcell.ColorGray)
+	styleStatus := tcell.StyleDefault.Dim(true)
+	styleCmd := tcell.StyleDefault.Background(tcell.ColorBlack).Foreground(tcell.ColorWhite)
 	// styleHdrRow is used for the frozen header row when :set header is on.
-	styleHdrRow   := tcell.StyleDefault.Bold(true).Foreground(tcell.ColorAqua)
+	styleHdrRow := tcell.StyleDefault.Bold(true).Foreground(tcell.ColorAqua)
 	// styleVisual highlights rows/columns in visual selections.
-	styleVisual    := tcell.StyleDefault.Background(tcell.ColorNavy).Foreground(tcell.ColorWhite)
+	styleVisual := tcell.StyleDefault.Background(tcell.ColorNavy).Foreground(tcell.ColorWhite)
 	styleVisualCol := tcell.StyleDefault.Background(tcell.ColorPurple).Foreground(tcell.ColorWhite)
 
 	// ── Column header row (y=0) ──
