@@ -1,4 +1,4 @@
-# Celledit
+# CellEdit
 
 A terminal CSV editor with vim-style keybindings.
 
