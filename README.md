@@ -1,4 +1,4 @@
-# celledit
+# Celledit
 
 A terminal CSV editor with vim-style keybindings.
 
@@ -6,7 +6,34 @@ A terminal CSV editor with vim-style keybindings.
 ce <file.csv>
 ```
 
-If the file does not exist it is created on first save. The header row is auto-detected on open and can be toggled manually.
+If the file does not exist it is created on first save.
+
+A sample file (`sample.csv`, 200 rows of coffee shop sales data) is included in the repo for trying things out:
+
+```
+ce sample.csv
+```
+
+
+---
+
+## Build
+
+Requires Go 1.21+.
+
+```
+git clone https://github.com/huyng/celledit.git
+go build -o ce .
+```
+
+## Install
+
+Or use the install script to build and install to `~/.local/bin/`:
+
+```
+git clone https://github.com/huyng/celledit.git
+./install.sh
+```
 
 ---
 
@@ -94,7 +121,6 @@ The sorted column's header shows `▲` or `▼`. Sorts are undoable with `u`. Wh
 | `u` | Undo |
 | `Ctrl+R` | Redo |
 
-### Mouse
 
 | Action | Effect |
 |--------|--------|
@@ -150,16 +176,3 @@ Enter with `:` from normal mode. `Esc` or `Ctrl+C` cancels.
 
 ---
 
-## Building
-
-Requires Go 1.21+.
-
-```
-go build -o ce .
-```
-
-Or use the install script to build and install to `~/.local/bin/`:
-
-```
-./install.sh
-```

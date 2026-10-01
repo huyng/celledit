@@ -1,0 +1,201 @@
+OrderID,Date,Time,Product,Size,Qty,UnitPrice,Discount,Total,Payment,Barista
+1,2025-05-08,15:40,Cappuccino,S,1,4.00,No,4.00,Mobile,Sam Whitfield
+2,2025-04-08,15:40,Americano,S,1,3.00,No,3.00,Mobile,Aisha Okafor
+3,2025-08-19,08:45,Bagel with Cream Cheese,L,1,4.50,No,4.50,Cash,Priya Patel
+4,2025-06-04,11:45,Iced Latte,M,1,4.50,Yes,4.05,Mobile,Priya Patel
+5,2025-09-04,08:05,Americano,L,2,3.00,No,6.25,Cash,Aisha Okafor
+6,2025-12-03,10:20,Matcha Latte,S,2,5.00,Yes,9.00,Card,Maya Chen
+7,2025-11-27,11:45,Hot Chocolate,S,1,4.25,No,4.25,Mobile,Priya Patel
+8,2025-03-18,14:15,Latte,M,2,4.25,No,8.50,Cash,Aisha Okafor
+9,2025-06-27,09:30,Bagel with Cream Cheese,S,1,4.50,No,4.50,Cash,Sam Whitfield
+10,2025-10-23,12:30,Iced Latte,L,1,4.50,No,4.75,Cash,Luis Ortega
+11,2025-12-18,12:30,Iced Latte,L,1,4.50,No,5.00,Cash,Priya Patel
+12,2025-03-17,08:05,Cold Brew,S,5,4.25,No,21.25,Mobile,Luis Ortega
+13,2025-07-13,15:40,Croissant,M,2,3.50,No,7.25,Mobile,Maya Chen
+14,2025-09-25,08:05,Cappuccino,M,2,4.00,No,8.00,Cash,Luis Ortega
+15,2025-12-24,08:45,Blueberry Muffin,L,1,3.75,No,4.25,Card,Aisha Okafor
+16,2025-09-20,08:45,Chai Latte,L,3,4.00,No,12.00,Mobile,Maya Chen
+17,2025-02-12,09:30,Green Tea,S,1,3.25,No,3.25,Card,Jonas Berg
+18,2025-08-27,08:45,Latte,S,1,4.25,Yes,4.33,Mobile,Sam Whitfield
+19,2025-09-28,15:40,Bagel with Cream Cheese,L,1,4.50,No,4.50,Mobile,Luis Ortega
+20,2025-11-21,14:15,Chai Latte,S,1,4.00,No,4.50,Card,Luis Ortega
+21,2025-10-18,07:15,Latte,S,1,4.25,No,4.25,Mobile,Aisha Okafor
+22,2025-01-28,09:30,Americano,M,1,3.00,No,3.50,Mobile,Sam Whitfield
+23,2025-12-19,14:15,Mocha,M,2,4.75,No,9.50,Card,Maya Chen
+24,2025-06-14,08:05,Cappuccino,S,2,4.00,No,8.00,Cash,Aisha Okafor
+25,2025-02-08,14:15,Green Tea,S,3,3.25,No,10.25,Cash,Luis Ortega
+26,2025-02-15,08:05,Iced Latte,S,1,4.50,No,5.00,Mobile,Jonas Berg
+27,2025-04-06,09:30,Espresso,-,5,2.50,No,12.75,Cash,Maya Chen
+28,2025-07-09,10:20,Macchiato,M,1,3.75,No,4.00,Mobile,Aisha Okafor
+29,2025-08-05,07:15,Bagel with Cream Cheese,L,2,4.50,No,9.00,Mobile,Jonas Berg
+30,2025-01-02,15:40,Americano,S,2,3.00,No,6.50,Card,Jonas Berg
+31,2025-02-20,12:30,Latte,S,3,4.25,Yes,11.47,Mobile,Luis Ortega
+32,2025-07-22,11:45,Americano,M,2,3.00,No,6.50,Card,Aisha Okafor
+33,2025-07-05,14:15,Green Tea,M,1,3.25,No,3.25,Card,Maya Chen
+34,2025-10-04,15:40,Blueberry Muffin,M,2,3.75,Yes,6.75,Card,Priya Patel
+35,2025-06-10,10:20,Latte,L,4,4.25,No,17.50,Mobile,Jonas Berg
+36,2025-09-10,08:45,Espresso,-,2,2.50,No,5.00,Cash,Maya Chen
+37,2025-03-09,11:45,Cappuccino,S,2,4.00,No,8.00,Mobile,Aisha Okafor
+38,2025-05-28,10:20,Iced Latte,S,2,4.50,Yes,8.35,Card,Priya Patel
+39,2025-05-06,12:30,Flat White,L,2,4.50,No,9.50,Card,Maya Chen
+40,2025-12-05,16:50,Latte,L,4,4.25,No,17.00,Card,Sam Whitfield
+41,2025-06-26,11:45,Flat White,S,1,4.50,No,4.50,Mobile,Luis Ortega
+42,2025-09-28,08:45,Cappuccino,S,1,4.00,No,4.50,Card,Luis Ortega
+43,2025-12-11,09:30,Croissant,M,1,3.50,No,3.75,Card,Aisha Okafor
+44,2025-01-28,14:15,Cappuccino,M,1,4.00,No,4.00,Cash,Luis Ortega
+45,2025-04-13,10:20,Cold Brew,M,1,4.25,No,4.25,Mobile,Jonas Berg
+46,2025-09-11,10:20,Hot Chocolate,S,2,4.25,No,8.50,Mobile,Priya Patel
+47,2025-07-12,12:30,Americano,L,1,3.00,No,3.00,Mobile,Maya Chen
+48,2025-04-09,07:15,Hot Chocolate,L,4,4.25,Yes,15.55,Mobile,Aisha Okafor
+49,2025-02-22,11:45,Mocha,L,1,4.75,No,5.25,Card,Aisha Okafor
+50,2025-11-14,15:40,Chai Latte,S,2,4.00,No,8.00,Card,Sam Whitfield
+51,2025-03-20,15:40,Hot Chocolate,S,2,4.25,No,8.75,Cash,Priya Patel
+52,2025-10-20,14:15,Mocha,M,1,4.75,No,5.00,Mobile,Luis Ortega
+53,2025-12-06,15:40,Cinnamon Roll,L,1,4.25,No,4.25,Mobile,Jonas Berg
+54,2025-04-22,08:45,Green Tea,S,1,3.25,No,3.25,Card,Luis Ortega
+55,2025-02-15,09:30,Banana Bread,L,2,3.25,No,7.00,Mobile,Sam Whitfield
+56,2025-03-21,12:30,Banana Bread,S,1,3.25,No,3.25,Card,Aisha Okafor
+57,2025-09-08,14:15,Cinnamon Roll,S,1,4.25,No,4.25,Cash,Aisha Okafor
+58,2025-10-11,16:50,Cinnamon Roll,L,5,4.25,No,21.50,Mobile,Sam Whitfield
+59,2025-03-24,10:20,Bagel with Cream Cheese,S,1,4.50,No,4.75,Mobile,Priya Patel
+60,2025-04-09,09:30,Cinnamon Roll,M,1,4.25,No,4.25,Cash,Priya Patel
+61,2025-03-08,09:30,Bagel with Cream Cheese,S,1,4.50,No,4.50,Cash,Sam Whitfield
+62,2025-07-02,12:30,Green Tea,L,2,3.25,No,6.75,Mobile,Maya Chen
+63,2025-06-10,15:40,Hot Chocolate,L,1,4.25,No,4.50,Mobile,Jonas Berg
+64,2025-05-14,11:45,Cold Brew,L,1,4.25,No,4.50,Mobile,Sam Whitfield
+65,2025-03-20,16:50,Macchiato,L,3,3.75,No,11.50,Mobile,Maya Chen
+66,2025-03-28,10:20,Latte,M,2,4.25,No,8.50,Cash,Luis Ortega
+67,2025-07-09,10:20,Blueberry Muffin,S,1,3.75,No,4.00,Cash,Maya Chen
+68,2025-06-08,07:15,Bagel with Cream Cheese,S,1,4.50,No,4.50,Card,Maya Chen
+69,2025-08-22,14:15,Flat White,L,1,4.50,Yes,4.05,Cash,Priya Patel
+70,2025-12-23,10:20,Macchiato,S,2,3.75,Yes,6.75,Mobile,Maya Chen
+71,2025-07-13,08:05,Chai Latte,L,2,4.00,No,8.00,Mobile,Aisha Okafor
+72,2025-05-28,16:50,Cold Brew,S,1,4.25,No,4.25,Cash,Jonas Berg
+73,2025-02-17,12:30,Croissant,M,2,3.50,No,7.00,Card,Sam Whitfield
+74,2025-08-23,15:40,Matcha Latte,L,2,5.00,No,10.00,Cash,Jonas Berg
+75,2025-08-14,10:20,Bagel with Cream Cheese,M,3,4.50,No,14.00,Card,Maya Chen
+76,2025-04-25,12:30,Iced Latte,M,4,4.50,No,18.50,Card,Sam Whitfield
+77,2025-04-12,10:20,Green Tea,L,1,3.25,No,3.25,Mobile,Priya Patel
+78,2025-04-03,14:15,Bagel with Cream Cheese,L,1,4.50,No,4.75,Card,Aisha Okafor
+79,2025-08-15,10:20,Banana Bread,S,2,3.25,No,6.50,Cash,Aisha Okafor
+80,2025-10-12,11:45,Cold Brew,M,1,4.25,No,4.75,Mobile,Jonas Berg
+81,2025-08-09,08:05,Green Tea,L,1,3.25,No,3.25,Card,Priya Patel
+82,2025-12-06,10:20,Cappuccino,L,2,4.00,No,8.25,Mobile,Jonas Berg
+83,2025-04-10,10:20,Chai Latte,S,5,4.00,No,20.00,Mobile,Jonas Berg
+84,2025-01-18,14:15,Flat White,S,1,4.50,No,4.50,Card,Jonas Berg
+85,2025-08-11,10:20,Chai Latte,M,1,4.00,No,4.00,Card,Maya Chen
+86,2025-10-21,08:45,Hot Chocolate,L,1,4.25,No,4.25,Cash,Maya Chen
+87,2025-07-20,09:30,Cold Brew,L,1,4.25,No,4.75,Cash,Sam Whitfield
+88,2025-10-14,07:15,Blueberry Muffin,L,1,3.75,No,4.25,Mobile,Maya Chen
+89,2025-05-22,08:45,Mocha,L,2,4.75,Yes,8.55,Card,Luis Ortega
+90,2025-12-20,09:30,Espresso,-,1,2.50,No,2.50,Cash,Aisha Okafor
+91,2025-08-03,16:50,Chai Latte,L,2,4.00,No,8.00,Card,Sam Whitfield
+92,2025-11-05,08:05,Cappuccino,S,2,4.00,No,8.00,Card,Priya Patel
+93,2025-08-23,10:20,Chai Latte,L,1,4.00,No,4.25,Mobile,Sam Whitfield
+94,2025-01-14,10:20,Blueberry Muffin,S,1,3.75,No,4.25,Card,Luis Ortega
+95,2025-11-27,08:45,Espresso,-,5,2.50,No,12.50,Cash,Jonas Berg
+96,2025-03-19,08:05,Blueberry Muffin,M,4,3.75,No,15.25,Cash,Sam Whitfield
+97,2025-02-28,14:15,Green Tea,M,1,3.25,No,3.50,Mobile,Sam Whitfield
+98,2025-02-11,12:30,Bagel with Cream Cheese,L,1,4.50,No,4.50,Card,Aisha Okafor
+99,2025-01-07,14:15,Bagel with Cream Cheese,L,1,4.50,No,5.00,Cash,Maya Chen
+100,2025-03-10,08:05,Mocha,S,1,4.75,No,5.00,Mobile,Jonas Berg
+101,2025-05-18,08:05,Cold Brew,S,2,4.25,Yes,7.90,Card,Sam Whitfield
+102,2025-03-16,15:40,Cappuccino,L,2,4.00,No,8.00,Cash,Sam Whitfield
+103,2025-04-15,09:30,Banana Bread,L,5,3.25,No,16.50,Mobile,Aisha Okafor
+104,2025-05-25,11:45,Flat White,L,3,4.50,No,13.75,Cash,Maya Chen
+105,2025-10-19,08:45,Chai Latte,M,2,4.00,No,8.25,Mobile,Sam Whitfield
+106,2025-09-13,09:30,Matcha Latte,L,1,5.00,No,5.00,Card,Jonas Berg
+107,2025-07-02,12:30,Hot Chocolate,M,1,4.25,No,4.50,Mobile,Aisha Okafor
+108,2025-01-05,11:45,Flat White,S,1,4.50,No,5.00,Cash,Maya Chen
+109,2025-01-24,08:05,Cinnamon Roll,M,4,4.25,Yes,15.30,Cash,Priya Patel
+110,2025-06-28,12:30,Hot Chocolate,M,2,4.25,No,9.00,Mobile,Aisha Okafor
+111,2025-01-20,09:30,Banana Bread,L,4,3.25,Yes,11.70,Card,Sam Whitfield
+112,2025-12-28,10:20,Cappuccino,S,3,4.00,Yes,10.80,Card,Priya Patel
+113,2025-06-14,12:30,Americano,L,1,3.00,Yes,3.20,Mobile,Luis Ortega
+114,2025-10-28,14:15,Macchiato,L,1,3.75,No,3.75,Card,Luis Ortega
+115,2025-08-09,10:20,Blueberry Muffin,L,2,3.75,No,7.75,Mobile,Luis Ortega
+116,2025-06-19,10:20,Latte,M,1,4.25,No,4.50,Cash,Luis Ortega
+117,2025-02-08,16:50,Hot Chocolate,M,3,4.25,No,12.75,Mobile,Priya Patel
+118,2025-11-13,07:15,Espresso,-,5,2.50,No,13.00,Mobile,Aisha Okafor
+119,2025-05-25,11:45,Banana Bread,S,3,3.25,No,10.25,Mobile,Luis Ortega
+120,2025-12-25,08:05,Iced Latte,L,2,4.50,No,9.00,Mobile,Maya Chen
+121,2025-01-19,08:05,Chai Latte,M,3,4.00,No,12.00,Cash,Aisha Okafor
+122,2025-03-26,15:40,Croissant,L,1,3.50,No,3.50,Cash,Luis Ortega
+123,2025-08-26,08:05,Iced Latte,M,4,4.50,No,18.00,Card,Luis Ortega
+124,2025-12-22,11:45,Cold Brew,S,3,4.25,No,13.25,Cash,Maya Chen
+125,2025-08-12,16:50,Iced Latte,M,2,4.50,No,9.00,Mobile,Priya Patel
+126,2025-08-01,11:45,Cappuccino,L,2,4.00,No,8.50,Card,Aisha Okafor
+127,2025-08-23,08:05,Latte,S,2,4.25,No,8.75,Card,Maya Chen
+128,2025-02-04,08:45,Chai Latte,M,5,4.00,No,20.50,Cash,Priya Patel
+129,2025-12-24,08:05,Bagel with Cream Cheese,M,1,4.50,No,4.75,Mobile,Sam Whitfield
+130,2025-06-07,11:45,Iced Latte,S,1,4.50,No,4.50,Mobile,Priya Patel
+131,2025-11-12,09:30,Bagel with Cream Cheese,S,4,4.50,Yes,16.20,Cash,Maya Chen
+132,2025-10-01,09:30,Mocha,S,2,4.75,Yes,8.55,Mobile,Luis Ortega
+133,2025-09-07,11:45,Latte,S,3,4.25,No,12.75,Mobile,Maya Chen
+134,2025-03-05,08:05,Iced Latte,L,3,4.50,No,13.50,Card,Luis Ortega
+135,2025-04-19,10:20,Espresso,-,1,2.50,No,2.50,Card,Luis Ortega
+136,2025-12-03,15:40,Croissant,L,2,3.50,No,7.00,Card,Sam Whitfield
+137,2025-10-02,10:20,Cinnamon Roll,M,1,4.25,No,4.75,Mobile,Maya Chen
+138,2025-07-14,14:15,Americano,S,5,3.00,No,15.25,Card,Priya Patel
+139,2025-05-20,11:45,Flat White,M,1,4.50,No,5.00,Mobile,Jonas Berg
+140,2025-10-14,15:40,Chai Latte,L,1,4.00,Yes,3.60,Card,Sam Whitfield
+141,2025-07-11,12:30,Blueberry Muffin,L,4,3.75,No,15.25,Card,Priya Patel
+142,2025-05-12,08:05,Croissant,S,1,3.50,No,3.75,Card,Maya Chen
+143,2025-12-12,07:15,Croissant,L,1,3.50,No,4.00,Mobile,Jonas Berg
+144,2025-07-12,07:15,Green Tea,M,2,3.25,No,6.75,Mobile,Priya Patel
+145,2025-09-07,09:30,Matcha Latte,S,1,5.00,No,5.25,Cash,Jonas Berg
+146,2025-05-19,15:40,Matcha Latte,L,1,5.00,No,5.25,Mobile,Aisha Okafor
+147,2025-11-27,08:45,Bagel with Cream Cheese,M,1,4.50,No,4.50,Mobile,Priya Patel
+148,2025-03-28,08:05,Green Tea,S,1,3.25,Yes,3.18,Mobile,Aisha Okafor
+149,2025-09-07,11:45,Espresso,-,1,2.50,No,2.75,Card,Priya Patel
+150,2025-10-20,08:45,Chai Latte,S,2,4.00,Yes,7.20,Mobile,Maya Chen
+151,2025-11-14,12:30,Latte,M,1,4.25,No,4.50,Card,Jonas Berg
+152,2025-02-10,14:15,Cappuccino,L,1,4.00,No,4.50,Mobile,Priya Patel
+153,2025-10-02,09:30,Americano,S,1,3.00,Yes,2.70,Cash,Priya Patel
+154,2025-08-24,12:30,Green Tea,L,1,3.25,No,3.25,Mobile,Luis Ortega
+155,2025-11-26,07:15,Cinnamon Roll,M,2,4.25,No,8.75,Card,Sam Whitfield
+156,2025-10-14,10:20,Latte,S,3,4.25,No,13.00,Cash,Maya Chen
+157,2025-10-15,08:05,Green Tea,M,1,3.25,No,3.25,Card,Luis Ortega
+158,2025-09-03,11:45,Croissant,S,2,3.50,No,7.00,Cash,Luis Ortega
+159,2025-02-17,11:45,Latte,L,2,4.25,No,8.50,Mobile,Luis Ortega
+160,2025-05-07,08:05,Cold Brew,S,1,4.25,No,4.25,Mobile,Sam Whitfield
+161,2025-10-15,16:50,Blueberry Muffin,M,3,3.75,No,11.75,Mobile,Priya Patel
+162,2025-08-15,16:50,Flat White,S,1,4.50,No,4.50,Cash,Jonas Berg
+163,2025-08-02,08:05,Latte,L,1,4.25,Yes,3.83,Card,Jonas Berg
+164,2025-10-18,14:15,Cinnamon Roll,L,1,4.25,No,4.25,Mobile,Luis Ortega
+165,2025-09-05,08:05,Green Tea,M,2,3.25,No,6.75,Mobile,Maya Chen
+166,2025-01-08,15:40,Cinnamon Roll,L,2,4.25,No,8.75,Mobile,Luis Ortega
+167,2025-05-13,16:50,Matcha Latte,S,1,5.00,No,5.00,Mobile,Aisha Okafor
+168,2025-02-18,10:20,Green Tea,L,1,3.25,No,3.25,Mobile,Jonas Berg
+169,2025-10-22,10:20,Flat White,L,1,4.50,Yes,4.05,Mobile,Aisha Okafor
+170,2025-12-03,11:45,Hot Chocolate,S,1,4.25,No,4.50,Mobile,Aisha Okafor
+171,2025-11-14,11:45,Cinnamon Roll,M,1,4.25,No,4.25,Card,Luis Ortega
+172,2025-08-07,08:45,Green Tea,S,4,3.25,No,13.00,Cash,Maya Chen
+173,2025-12-17,16:50,Cinnamon Roll,S,3,4.25,Yes,11.47,Mobile,Sam Whitfield
+174,2025-12-25,14:15,Flat White,S,1,4.50,No,4.50,Cash,Priya Patel
+175,2025-10-10,09:30,Cold Brew,L,5,4.25,No,21.50,Card,Priya Patel
+176,2025-04-12,14:15,Banana Bread,M,4,3.25,No,13.50,Cash,Sam Whitfield
+177,2025-03-27,08:45,Cinnamon Roll,M,2,4.25,No,9.00,Card,Aisha Okafor
+178,2025-09-04,08:05,Banana Bread,M,4,3.25,No,13.50,Card,Luis Ortega
+179,2025-09-05,09:30,Iced Latte,M,1,4.50,No,4.50,Cash,Maya Chen
+180,2025-09-12,11:45,Croissant,S,1,3.50,No,3.50,Card,Priya Patel
+181,2025-11-11,07:15,Cappuccino,M,3,4.00,No,12.00,Cash,Aisha Okafor
+182,2025-08-15,07:15,Flat White,M,3,4.50,No,13.50,Card,Luis Ortega
+183,2025-10-17,09:30,Bagel with Cream Cheese,M,4,4.50,No,18.00,Card,Maya Chen
+184,2025-10-15,16:50,Cold Brew,L,1,4.25,Yes,4.08,Card,Aisha Okafor
+185,2025-12-05,16:50,Cinnamon Roll,M,2,4.25,No,8.50,Card,Jonas Berg
+186,2025-11-03,08:05,Croissant,L,1,3.50,No,3.50,Mobile,Jonas Berg
+187,2025-07-28,11:45,Cinnamon Roll,M,2,4.25,No,8.75,Mobile,Maya Chen
+188,2025-06-08,16:50,Matcha Latte,L,3,5.00,No,15.00,Cash,Luis Ortega
+189,2025-06-27,14:15,Americano,L,1,3.00,No,3.25,Card,Luis Ortega
+190,2025-08-02,09:30,Latte,S,2,4.25,No,8.50,Cash,Priya Patel
+191,2025-09-16,10:20,Cinnamon Roll,M,1,4.25,No,4.25,Card,Aisha Okafor
+192,2025-06-14,12:30,Green Tea,M,1,3.25,No,3.50,Card,Sam Whitfield
+193,2025-09-09,08:05,Banana Bread,M,1,3.25,No,3.50,Mobile,Luis Ortega
+194,2025-02-03,10:20,Bagel with Cream Cheese,M,1,4.50,No,4.50,Mobile,Aisha Okafor
+195,2025-08-12,16:50,Croissant,M,1,3.50,No,3.50,Cash,Aisha Okafor
+196,2025-11-13,07:15,Americano,S,1,3.00,No,3.00,Mobile,Aisha Okafor
+197,2025-02-08,11:45,Blueberry Muffin,M,1,3.75,No,3.75,Mobile,Maya Chen
+198,2025-06-12,16:50,Flat White,S,2,4.50,No,9.00,Mobile,Priya Patel
+199,2025-05-08,08:45,Hot Chocolate,M,1,4.25,No,4.25,Mobile,Sam Whitfield
+200,2025-05-23,10:20,Bagel with Cream Cheese,L,1,4.50,No,5.00,Cash,Luis Ortega
