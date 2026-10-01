@@ -14,6 +14,7 @@ A sample file (`sample.csv`, 200 rows of coffee shop sales data) is included in 
 ce sample.csv
 ```
 
+<img width="720" height="566" alt="Image" src="https://github.com/user-attachments/assets/0cc9ac44-a819-4a2f-85a7-8fdf35f3a2c0" />
 
 ---
 
