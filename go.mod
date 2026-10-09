@@ -1,4 +1,4 @@
-module celledit
+module github.com/huyng/celledit
 
 go 1.21
 
